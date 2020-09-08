@@ -1,3 +1,12 @@
 body{
+    width: 95%;
     background: url(img/bg.jpg) center;
 }
+
+article{
+  background: linear-gradient(to top , rgb(89, 54, 155, 0.5), rgb(197, 68, 68, 0.5));
+  padding: 20px 40px;
+  margin-top: 20px;
+  border-radius: 10px;
+}
+
